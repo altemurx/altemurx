@@ -11,3 +11,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... DM :)
 - 😄 Pronouns: Her
 - ⚡ Fun fact: Myself
+
+
+![Github stats 1](https://github-readme-stats.vercel.app/api?username=altemurx&show_icons=true&theme=gradient) 
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=altemurx&show_icons=true&theme=radical)
