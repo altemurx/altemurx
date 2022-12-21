@@ -11,4 +11,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... DM :)
 - 😄 Pronouns: Her
 - ⚡ Fun fact: Myself
--->
